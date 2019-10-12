@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Tornado Super Shop </title>
+<link rel="stylesheet" href ="bootstrap.min.css">
+<link rel="stylesheet" href ="main.css">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scale=no">
+<script src="bootstrap.min.js"></script>
+
+<style>
+body{background-color : #ffffff;}
+
+.head1 {
+    display: inline-block;    
+    text-align: center;
+    width: 123px;
+	margin: 10px;
+    border-radius: 4px 4px 4px 4px;
+    height: 220px;
+    vertical-align: middle;
+	padding-left: 500px;
+	font-family: Brush Script MT ;
+	
+}
+
+h1 {color:#8C1C73;
+	text-transform : Uppercase;
+	vertical-align: middle;
+}
+h2 {color:#CCEB29;
+    font-style : italic; 
+	padding-left:350px;
+	margin: 30px;
+	font-family: Papyrus;
+	background-color:#00ADD6;
+}
+h4 {color:black;
+	font-style:Papyrus;
+	margin: 2em;
+	
+}
+
+h3 {font-size = 32;}
+
+.main_block {
+    width: 1200px;
+	font-family:Papyrus;
+    
+}
+
+.container{color:#8C1C73;
+	font-family: Papyrus;
+	}
+
+
+.inner_block {
+    
+    float: left;
+    width: 50%;
+}
+
+.inner_block img {
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+	
+}
+
+text {color: blue;}
+
+.catmail {
+    width: 50%;
+    height: 200px;
+    margin-left: 200px;
+    padding: 200px;
+}
+.one {
+    width: 15%;
+    height: 200px;
+    
+    float: left;
+}
+.two {
+    margin-left: 15%;
+    height: 200px;
+   
+}
+
+.access{
+    font-style : bold; 
+	padding-left:1100px;
+	font-family: Papyrus;
+}
+
+.dont {color:black;
+	font-family:Papyrus;
+	margin-left:290px;
+	
+}
+
+
+</style>
+</head>
+<body0>
+
+<div class="head1">
+<h1> ⚡ Tornado Super Shop ⚡ </h1>
+</div>
+<h2> Your online one stop to shop the WORLD! 🌎 </h2>
+<div class="access">
+<a href = "Admin.php">Admin Login | </a>
+<a href = "About Us.php">| About Us</a>
+
+</div>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href = "Fruits.php">Fruits</a>
+    </div>
+    <div class="col-sm">
+      <a href = "Vegetables.php">Vegetables</a>
+    </div>
+    <div class="col-sm">
+      <a href = "Meats.php">Meats</a>
+    </div>
+	<div class="col-sm">
+      <a href = "Dairy Products.php">Dairy Products</a>
+    </div>
+	<div class="col-sm">
+      <a href = "Bistcuts.php">Biscuits</a>
+    </div>
+	<div class="col-sm">
+      <a href = "Drinks.php">Drinks</a>
+    </div>
+	<div class="col-sm">
+      <a href = "Snacks.php">Snacks</a>
+    </div>
+	<div class="col-sm">
+      <a href = "Chocolates.php">Chocolates</a>
+    </div>
+  </div>
+  </div>
+  
+  <div class="embed-responsive embed-responsive-21by9">
+  <iframe class="embed-responsive-item" src="TSS.mp4" allowfullscreen></iframe>
+</div>
+
+
+<div class = "dont">
+<h4> Don't forget to order the hottest selling items below: </h4>
+</div>
+
+
+</body0>
+
+
+
+<body1>
+
+
+<div class="main_block">
+
+<div class = "inner_block">
+<figure1>
+<img src = "Snickers-Candy-Bar.jpg" alt = "Snickers Chocolate">
+<figcaption>
+<a href = "http://snickers.tumblr.com/">Snickers Chocolate:</a>
+<text> TK: 85/- </text>
+
+</figcaption>
+</figure1>
+</div>
+
+<div class = "inner_block">
+<figure2>
+<img src = "Toblerone (1).jpg" alt = "Toblerone">
+<figcaption>
+<a href = "https://www.toblerone.com/">Toblerone:</a>
+<text> TK: 120 </text>
+</figcaption>
+</figure2>
+</div>
+
+<div class = "inner_block">
+<figure3>
+<img src = "pepsi-cola-1l (1).jpg" alt = "Pepsi">
+<figcaption>
+<a href = "https://www.pepsi.com/en-us/">Pepsi 1L:</a>
+<text> TK: 60/- </text>
+</figcaption>
+</figure3>
+</div>
+
+<div class = "inner_block">
+<figure4>
+<img src = "192142.jpg" alt = "Green Apples">
+<figcaption>
+<text> Green Apples TK: 170/kg </text>
+</figcaption>
+</figure4>
+</div>
+
+<div class = "inner_block">
+<figure5>
+<img src = "unnamed.jpg" alt = "Oreo">
+<figcaption>
+<a href = "http://www.oreo.com/">Oreo:</a>
+<text> TK: 120/- </text>
+</figcaption>
+</figure5>
+</div>
+
+<div class = "inner_block">
+<figure6>
+<img src = "th (1).jpg" alt = "Beef">
+<figcaption>
+<text> Beef TK: 450/kg </text>
+</figcaption>
+</figure6>
+</div>
+
+<div class = "inner_block">
+<figure7>
+<img src = "cone-thumb (1).jpg" alt = "Polar ChocoDelight">
+<figcaption>
+<a href = "http://www.polarbd.com/">Polar ChocoDelight:</a>
+<text> TK: 50/- </text>
+</figcaption>
+
+</figure7>
+</div>
+
+<div class = "inner_block">
+<figure8>
+<img src = "coca-cola.jpg" alt = "Coca Cola">
+<figcaption>
+<a href = "http://www.coca-cola.com.bd/bn/home/">Coca Cola 1.25L:</a>
+<text> TK: 65 </text>
+</figcaption>
+</figure8>
+</div>
+
+
+
+</body1>
+
+
+
+
+<body2>
+<section class ="catmail">
+
+
+<h3> We accept Payment via Cash on Home Delivery using e-Mail</h3>
+<figure>
+<img src = "email.jpg" alt = "e-Mail">
+<figcaption>
+
+<a href="mailto:sakib2131@gmail.com?subject=Tornado Super Shop, Product Order
+&body=Your Name:
+           Phone:                 
+		   Order: ">Email Your Order!</a>
+</figcaption>
+</figure>
+
+</section>
+</body2>
+<? include 'Fruits.php'
+   include 'Vegetables.php'
+   include 'Snacks.php'
+   include 'PostLogin.php'
+   include 'Meats.php'
+   include 'Drinks.php'
+   include 'Dairy Products.php'
+   include 'Chocolates.php'
+   include 'Bistcuts.php'
+   include 'Admin.php'
+   include 'About Us.php'
+?>
+
+</html>
